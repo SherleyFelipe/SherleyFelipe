@@ -1,4 +1,4 @@
-### Olá sou Sherley Felipe!!
+### Olá sou Sherley Felipe estudante do Senac e faço faculdade de Gestão da Tecnologia da Informação.!!
  <div>
   <a href="https://github.com/SherleyFelipe">
   <img height="130em" src="https://github-readme-stats.vercel.app/api?username=SherleyFelipe&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
