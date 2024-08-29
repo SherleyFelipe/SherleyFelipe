@@ -15,6 +15,7 @@ Vamos conectar e explorar novas tecnologias juntos!
  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
  <img align="center" alt="Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
+  <img align="center" alt="Kali Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kali/kali-original.svg">
 </div>
   
   ##
