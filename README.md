@@ -1,6 +1,6 @@
 ### Hello, I'm Sherley Felipe!
-I graduated from Senac with a degree in Technical Computer Science for the Internet and also completed my degree in Information Technology Management. 
-Currently, I'm focused on home automation and cybersecurity. 🚀
+I graduated from Senac as a Computer Technician for the Internet and also completed a degree in Information Technology Management.
+I'm currently focused on home automation and cybersecurity. 🚀
 Let's connect and explore new technologies together!
  <div>
   <a href="https://github.com/SherleyFelipe">
