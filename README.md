@@ -1,7 +1,7 @@
-### Hello, I'm Sherley Felipe!
-I graduated from Senac as a Computer Technician for the Internet and also completed a degree in Information Technology Management.
-I'm currently focused on home automation and cybersecurity. 🚀
-Let's connect and explore new technologies together!
+### Olá, sou Sherley Felipe!
+Sou formado pelo Senac em  Técnico em Informática para Internet e também concluí a faculdade de Gestão da Tecnologia da Informação. 
+Atualmente, estou focado em automação residencial e cibersegurança. 🚀
+Vamos conectar e explorar novas tecnologias juntos!
  <div>
   <a href="https://github.com/SherleyFelipe">
   <img height="130em" src="https://github-readme-stats.vercel.app/api?username=SherleyFelipe&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
