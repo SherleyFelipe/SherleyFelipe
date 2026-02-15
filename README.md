@@ -34,14 +34,11 @@ Sou profissional em transição para a área de Tecnologia, com experiência só
        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
 </div>
 
----
 
 ## 📫 Contato
 
 🔗 LinkedIn: https://www.linkedin.com/in/sherley-lopes-felipe  
-📧 Email: coloque-seu-email-aqui
-
----
+📧 Email: sher.felipe@gmail.com
 
 ## 🐍 Contribuições
 
