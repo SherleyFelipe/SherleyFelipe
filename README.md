@@ -9,8 +9,10 @@ Sou profissional em transição para a área de Tecnologia, com experiência só
 
 🚀 Busco oportunidade como:
 - Desenvolvedor Júnior
-- Suporte Técnico
+- Suporte de Sistemas / Help Desk
 - Analista de TI
+- Programador Júnior
+- Trainee em TI
 
 ---
 
