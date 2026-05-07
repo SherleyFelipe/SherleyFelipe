@@ -19,7 +19,7 @@ Sou profissional em transição para a área de Tecnologia, com experiência só
 
 ## 🛠️ Tecnologias
 
-<div style="display: inline_block"><br>
+<div style="display: inline_block">
   <img align="center" alt="Python" height="30" width="40"
        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="JavaScript" height="30" width="40"
